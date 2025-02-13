@@ -17,7 +17,7 @@ We selected three different model architectures with increasing complexity:
 ### 3. Experiment Setup
 
 #### 3.1 Dataset Preparation
-- The **Yelp Polarity dataset** from Hugging Face was used.
+- The [**Yelp Polarity dataset**](https://huggingface.co/datasets/yelp_polarity) from Hugging Face was used.
 - The text was tokenized and converted into sequences of word indices.
 - Padding was applied to ensure uniform input length.
 - The dataset was split into training, validation, and test sets.
